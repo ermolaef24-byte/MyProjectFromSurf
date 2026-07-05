@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+.env
+.idea/
+.playwright-mcp/
+*.log
+.DS_Store
+Thumbs.db
